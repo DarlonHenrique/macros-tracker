@@ -6,7 +6,7 @@ export const HeaderContainer = styled.header`
   border-bottom: solid 1px var(--blue-dark-border);
 
   h1 {
-    font-size: 2.5rem;
+    font-size: 1rem;
     font-weight: 700;
     color: #fff;
     margin-left: 2rem;
